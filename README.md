@@ -1,10 +1,4 @@
-Here is your complete and beautifully formatted `README.md` content, ready to paste directly into your project root:
 
----
-
-### ✅ Complete `README.md`
-
-````markdown
 # 💳 AI-Powered Creditworthiness Analyzer
 
 An intelligent machine learning web application to predict whether a loan applicant is creditworthy — built with Streamlit, scikit-learn, and pandas.
@@ -61,7 +55,6 @@ Users can compare model performance and select the best one dynamically.
 
 ## 🗃️ Input Dataset Columns
 
-```text
 loan_id
 no_of_dependents
 education
@@ -75,7 +68,6 @@ commercial_assets_value
 luxury_assets_value
 bank_asset_value
 loan_status
-````
 
 ---
 
@@ -83,30 +75,22 @@ loan_status
 
 ### 📦 Step 1: Clone the repo
 
-```bash
 git clone https://github.com/AdityaShanbhag21/AI-Powered-Creditworthiness-Analyzer-.git
 cd AI-Powered-Creditworthiness-Analyzer-
-```
 
 ### 🐍 Step 2: Create virtual environment & install dependencies
 
-```bash
 python -m venv venv
 venv\Scripts\activate  # On Windows
 pip install -r requirements.txt
-```
 
 ### 🚀 Step 3: Run the Streamlit app
 
-```bash
 streamlit run app.py
-```
-
 ---
 
 ## 📁 Project Structure
 
-```
 AI-Powered-Creditworthiness-Analyzer-/
 │
 ├── src/
@@ -120,8 +104,6 @@ AI-Powered-Creditworthiness-Analyzer-/
 ├── app.py
 ├── requirements.txt
 └── README.md
-```
-
 ---
 
 ## 🧠 Future Enhancements
@@ -149,10 +131,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 Built by **Aditya Shanbhag**
 🔗 [GitHub](https://github.com/AdityaShanbhag21)
-
-```
-
 ---
-
-Would you like a `.md` file version download link or a markdown preview image for your repo too?
-```
