@@ -48,7 +48,7 @@ Users can compare model performance and select the best one dynamically.
 | Backend          | Python (pandas, sklearn, xgboost) |
 | Web App UI       | Streamlit              |
 | Model Training   | Logistic Regression, Random Forest, XGBoost |
-| Deployment       | Streamlit Cloud (Optional) |
+| Deployment       | Streamlit Cloud |
 
 ---
 
@@ -129,6 +129,13 @@ AI-Powered-Creditworthiness-Analyzer-/
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+## 🛒 Dataset
+
+You can use a variety of datasets from [Kaggle](https://www.kaggle.com/).   
+I have used [Loan-Approval-Prediction-Dataset](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset).  
 
 ---
 
