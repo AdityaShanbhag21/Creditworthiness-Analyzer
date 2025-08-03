@@ -1,6 +1,6 @@
 # 💳 AI-Powered Creditworthiness Analyzer
 
-An intelligent machine learning web application to predict whether a loan applicant is creditworthy — built with Streamlit, scikit-learn, and pandas.
+An intelligent machine learning web application to predict whether a loan applicant is creditworthy, built with Streamlit, scikit-learn, and pandas.
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
