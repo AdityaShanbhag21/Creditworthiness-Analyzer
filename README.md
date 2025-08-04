@@ -1,4 +1,4 @@
-# 💳 AI-Powered Creditworthiness Analyzer
+#  AI-Powered Creditworthiness Analyzer
 
 An intelligent machine learning web application to predict whether a loan applicant is creditworthy, built with Streamlit, scikit-learn, and pandas.
 
@@ -69,7 +69,7 @@ loan_status
 
 ---
 
-## 🧪 How to Run Locally
+##  How to Run Locally
 
 ###  Step 1: Clone the repo
 
