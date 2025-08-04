@@ -8,40 +8,37 @@ An intelligent machine learning web application to predict whether a loan applic
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 The **AI-Powered Creditworthiness Analyzer** predicts the probability of loan approval based on applicant information like income, employment status, credit score, and assets. This tool helps financial institutions or fintech platforms evaluate risk in a transparent and data-driven manner.
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
-👉 *Coming Soon on Streamlit Sharing*
-
----
-
-## 🧠 Machine Learning Models
-
-- ✅ Logistic Regression
-- ✅ Random Forest Classifier
-- ✅ XGBoost Classifier
-
-Users can compare model performance and select the best one dynamically.
+ *Coming Soon on Streamlit Sharing*
 
 ---
 
-## 📊 Features
+## Machine Learning Models used
 
-- 📁 Upload customer data CSV
-- 🧹 Data preprocessing & cleaning
-- 🧠 Train/test multiple ML models
-- 📈 Accuracy & evaluation metrics display
-- 📊 Interactive prediction for new customers
-- 💡 Streamlit-based user-friendly interface
+-  Logistic Regression
+-  Random Forest Classifier
+-  XGBoost Classifier
+---
+
+## Features
+
+-  Upload customer data CSV
+-  Data preprocessing & cleaning
+-  Train/test multiple ML models
+-  Accuracy & evaluation metrics display
+-  Interactive prediction for new customers
+-  Streamlit-based user-friendly interface
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component        | Technology             |
 |------------------|------------------------|
@@ -52,7 +49,7 @@ Users can compare model performance and select the best one dynamically.
 
 ---
 
-## 🗃️ Input Dataset Columns
+##  Input Dataset Columns
 
 ```text
 loan_id
@@ -74,14 +71,14 @@ loan_status
 
 ## 🧪 How to Run Locally
 
-### 📦 Step 1: Clone the repo
+###  Step 1: Clone the repo
 
 ```bash
 git clone https://github.com/AdityaShanbhag21/AI-Powered-Creditworthiness-Analyzer-.git
 cd AI-Powered-Creditworthiness-Analyzer-
 ```
 
-### 🐍 Step 2: Create virtual environment & install dependencies
+###  Step 2: Create virtual environment (optional) & install dependencies
 
 ```bash
 python -m venv venv
@@ -89,7 +86,7 @@ venv\Scripts\activate  # On Windows
 pip install -r requirements.txt
 ```
 
-### 🚀 Step 3: Run the Streamlit app
+###  Step 3: Run the Streamlit app
 
 ```bash
 streamlit run app.py
@@ -97,7 +94,7 @@ streamlit run app.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 AI-Powered-Creditworthiness-Analyzer-/
@@ -117,35 +114,34 @@ AI-Powered-Creditworthiness-Analyzer-/
 
 ---
 
-## 🧠 Future Enhancements
+##  Future Enhancements
 
-* 💳 Real-time API integration with financial apps
-* 🔐 Authentication for user dashboards
-* 📉 Time-series analysis of credit behavior
-* 🌍 Deployment to Streamlit Sharing / HuggingFace
+*  Real-time API integration with financial apps
+*  Authentication for user dashboards
+*  Time-series analysis of credit behavior
+*  Deployment to Streamlit Sharing / HuggingFace
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
-## 🛒 Dataset
+##  Dataset
 
 You can use a variety of datasets from [Kaggle](https://www.kaggle.com/).   
 I have used [Loan-Approval-Prediction-Dataset](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset).  
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-Built by **Aditya Shanbhag**.
-🔗 [GitHub](https://github.com/AdityaShanbhag21)  |
+Built by **Aditya Shanbhag**. [GitHub](https://github.com/AdityaShanbhag21)  |
