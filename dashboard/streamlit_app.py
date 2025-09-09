@@ -22,7 +22,7 @@ st.set_page_config(
 )
 
 # Custom CSS
-st.markdown("""
+st.markdown(
 <style>
     .main-header {
         font-size: 2.5rem;
@@ -63,7 +63,7 @@ st.markdown("""
         border: 1px solid #dee2e6;
     }
 </style>
-""", unsafe_allow_html=True)
+, unsafe_allow_html=True)
 
 @st.cache_resource
 def load_prediction_service():
@@ -560,7 +560,7 @@ def main():
     with tab4:
         st.header("ℹ️ About the AI Creditworthiness Analyzer")
         
-        st.markdown("""
+        st.markdown(
         ## 🎯 Purpose
         This application uses advanced machine learning algorithms to assess creditworthiness and predict loan default risk. 
         It helps financial institutions make informed lending decisions by analyzing multiple factors beyond traditional credit scores.
@@ -632,7 +632,7 @@ def main():
         ## 📞 Support
         
         For technical support or customization requests, please contact your development team.
-        """)
+        )
         
         # Technical specifications
         with st.expander("🔧 Technical Specifications"):
@@ -646,4 +646,5 @@ def main():
             """)
 
 if __name__ == "__main__":
+
     main()
